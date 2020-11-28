@@ -6,3 +6,4 @@ def calculate_square_root(num):
 	
 num = 4
 sq_root = calculate_square_root(num)
+print(sq_root)
