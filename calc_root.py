@@ -3,7 +3,7 @@
 def calculate_square_root(num):
 	return num ** 0.5
 	
-def calculate_square_root(num):
+def calculate_square(num):
 	return num ** 2 
 	
 num = 4
